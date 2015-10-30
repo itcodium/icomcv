@@ -1,2 +1,2 @@
-python test.py
+python compare_demo.py
 pause

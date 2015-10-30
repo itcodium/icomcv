@@ -1,0 +1,2 @@
+python perspective.py
+pause

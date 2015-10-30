@@ -1,0 +1,41 @@
+
+1 a 7 	A- Estas fotos fueron tomadas utilizando el matafuegos como punto de referencia para reducir la diferencia entre imagenes
+
+8 a 11	B- Imagenes tomadas Sin utilizar un punto de referencia.
+
+12 a 13 C- Imagenes tomadas de acuerdo al punto A a las que se le agrego un objeto a la escena
+		- Persona 
+		- Mochila	
+
+
+Resultados de la comparacion
+
+Como imagen master se tomo la foto 1: 1.jpg
+La similitud de la comracion entre la imagen uno y la imagen uno es del 100%
+
+La similitud entre la imagen master y la imagen 2 a 7 varia de un 80% a un 86%.
+La similitud entre la imagen master y las imagenes 8 a 11 varia de 65% a 73%
+La similitud entre la imagen master y las imagenes 12 a 16 varia de 79% a un 83%
+
+
+1.jpg 1.jpg 1.0
+
+1.jpg 2.jpg 0.862261792745
+1.jpg 3.jpg 0.824566528571
+1.jpg 4.jpg 0.825429570277
+1.jpg 5.jpg 0.809901764754
+1.jpg 6.jpg 0.835605727847
+1.jpg 7.jpg 0.86735673305
+
+1.jpg 8.jpg 0.736702481721
+1.jpg 9.jpg 0.739421835759
+1.jpg 10.jpg 0.698118088469
+1.jpg 11.jpg 0.653384116145
+
+1.jpg 12.jpg 0.79377573114
+1.jpg 13.jpg 0.806227880077
+1.jpg 14.jpg 0.819974944083
+1.jpg 15.jpg 0.822953958255
+1.jpg 16.jpg 0.834864717888
+
+ 
